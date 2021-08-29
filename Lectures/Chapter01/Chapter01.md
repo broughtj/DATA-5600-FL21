@@ -17,6 +17,12 @@ jupyter:
 
 -->
 
+<!-- #region slideshow={"slide_type": "slide"} -->
+# DATA 5600 <br>
+
+# Chapter 01 - Overview <br>
+<!-- #endregion -->
+
 
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## Section 1.1: The Three Challenges of Statistics
@@ -30,4 +36,11 @@ The tree challenges of statistics:
 2. _Generalizing from treatment group to control group_
 
 3. _Generalizing from observed measurements to the underlying constructs of interest_
+<!-- #endregion -->
+
+
+
+<!-- #region slideshow={'slide_type": "subslide"} -->
+
+
 <!-- #endregion -->
