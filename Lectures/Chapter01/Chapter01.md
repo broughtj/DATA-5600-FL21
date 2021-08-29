@@ -62,3 +62,45 @@ The tree challenges of statistics:
 
 <!-- #endregion -->
 
+
+<!--- #region slideshow={'slide_type": "slide"} -->
+## Section 1.2: Why Learn Regression?
+
+
+<!-- #endregion -->
+
+
+
+<!--- #region slideshow={'slide_type": "slide"} -->
+## Section 1.3: Some Examples of Regression
+
+<!-- #endregion -->
+
+
+<!--- #region slideshow={'slide_type": "slide"} -->
+## Section 1.4: Challenges in Building, Understanding, and Interpreting Regressions
+
+<!-- #endregion -->
+
+
+<!--- #region slideshow={'slide_type": "slide"} -->
+## Section 1.5: Classical and Bayesian Inference
+
+<!-- #endregion -->
+
+
+<!--- #region slideshow={'slide_type": "slide"} -->
+## Section 1.6: Computing Least Squares and Bayesian Regression
+
+<!-- #endregion -->
+
+
+<!--- #region slideshow={'slide_type": "slide"} -->
+## Section 1.7: Bibliographic Note
+<!-- #endregion -->
+
+
+
+<!--- #region slideshow={'slide_type": "slide"} -->
+
+<!-- #endregion -->
