@@ -18,7 +18,7 @@ jupyter:
 -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
-# DATA 5600 <br>
+# DATA 5600: Introduction to Regression and Machine Learning for Analytics <br>
 
 __Chapter 01 - Overview__ <br>
 
