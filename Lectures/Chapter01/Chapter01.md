@@ -3,16 +3,17 @@
 ---
 jupyter:
   jupytext:
+    formats: ipynb,md
     hide_notebook_metadata: true
     text_representation:
       extension: .md
       format_name: markdown
-      format_version: '1.2'
-      jupytext_version: 1.6.0
+      format_version: '1.3'
+      jupytext_version: 1.11.4
   kernelspec:
-    display_name: Python [conda env:jupytext-demo] *
+    display_name: Python 3
     language: python
-    name: "Chapter 01: Overview" 
+    name: python3
 ---
 
 -->
@@ -28,7 +29,7 @@ Last Update: August 29, 2021 <br>
 <!-- #endregion -->
 
 
-<!-- #region slideshow={"slide_type": "slide"} -->
+<!-- #region slideshow={"slide_type": "slide"} tags=[] -->
 ## Section 1.1: The Three Challenges of Statistics
 <!-- #endregion -->
 
