@@ -20,13 +20,18 @@ jupyter:
 <!-- #region slideshow={"slide_type": "slide"} -->
 # DATA 5600 <br>
 
-# Chapter 01 - Overview <br>
+__Chapter 01 - Overview__ <br>
+
+Tyler J. Brough <br>
+Last Update: August 29, 2021 <br>
+
 <!-- #endregion -->
 
 
 <!-- #region slideshow={"slide_type": "slide"} -->
 ## Section 1.1: The Three Challenges of Statistics
 <!-- #endregion -->
+
 
 <!-- #region slideshow={"slide_type": "subslide"} -->
 The tree challenges of statistics: 
@@ -39,8 +44,20 @@ The tree challenges of statistics:
 <!-- #endregion -->
 
 
-
 <!-- #region slideshow={'slide_type": "subslide"} -->
-
+### Generalizing From Sample to Population
 
 <!-- #endregion -->
+
+
+<!-- #region slideshow={'slide_type": "subslide"} -->
+### Generalizing From Treatment Group to Control Group 
+
+<!-- #endregion -->
+
+
+<!-- #region slideshow={'slide_type": "subslide"} -->
+### Generalizing From Observed Measurements to the Underlying Constructs of Interest 
+
+<!-- #endregion -->
+
