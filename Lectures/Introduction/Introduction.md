@@ -11,7 +11,7 @@ jupyter:
       format_version: '1.2'
       jupytext_version: 1.6.0
   kernelspec:
-    display_name: Python [conda env:jupytext-demo] *
+    display_name: Python 3
     language: python
     name: python3
 ---
