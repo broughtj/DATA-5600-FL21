@@ -66,7 +66,6 @@ The tree challenges of statistics:
 <!--- #region slideshow={'slide_type": "slide"} -->
 ## Section 1.2: Why Learn Regression?
 
-
 <!-- #endregion -->
 
 

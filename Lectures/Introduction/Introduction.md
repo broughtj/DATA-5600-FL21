@@ -3,6 +3,7 @@
 ---
 jupyter:
   jupytext:
+    formats: ipynb,md
     hide_notebook_metadata: true
     text_representation:
       extension: .md
@@ -24,5 +25,18 @@ __Introduction__ <br>
 
 Tyler J. Brough <br>
 Last Update: August 29, 2021 <br>
+<!-- #endregion -->
+
+
+<!--- #region slideshow={'slide_type": "slide"} -->
+## About Me
 
 <!-- #endregion -->
+
+
+<!--- #region slideshow={'slide_type": "slide"} -->
+## About You
+
+<!-- #endregion -->
+
+
