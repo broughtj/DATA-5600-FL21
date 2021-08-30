@@ -109,7 +109,7 @@ check for communications and announcements often.
 
 ### Topics
 
-We will cover the following blank main modules:
+We will cover the following three main modules:
 
 1. Fundamentals: chapters 1 - 5
 2. Linear regression: 1 - 11
