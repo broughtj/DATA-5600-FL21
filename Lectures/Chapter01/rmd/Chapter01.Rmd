@@ -1,0 +1,30 @@
+---
+title: "DATA 5600: Chapter 1 - Overview"
+author: Tyler J. Brough
+institute: Department of Data Analytics and Information Systems 
+titlegraphic: ./images/vertical-logo-blue.png
+fontsize: 10pt
+output:
+ beamer_presentation:
+    template: ./beamer-template.tex
+    keep_tex: false
+    toc: true
+ ioslides_presentation:
+    smaller: true
+make149: true
+---
+
+
+## 
+
+
+
+
+
+
+
+
+
+
+
+

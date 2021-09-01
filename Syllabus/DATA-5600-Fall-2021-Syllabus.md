@@ -112,7 +112,7 @@ check for communications and announcements often.
 We will cover the following three main modules:
 
 1. Fundamentals: chapters 1 - 5
-2. Linear regression: 1 - 11
+2. Linear regression: 6 - 11
 3. Advanced topics: 
     - Logistic regression and classification: 13
     - Causal inference: 18
