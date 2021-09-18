@@ -95,14 +95,14 @@ __9__. The probability that a patient recovers from a stomach disease is $0.8$. 
 
 <br>
 
-__10__. Three Bayesians Anne, Beth, and Greg are flipping a coin that may or may not be biased. Anne has a prior of $Beta(2,8)$, Beth has a prior of $Beta(1,1)$, and Greg has a prior of $Beta(8,2)$. 
+__10__. Three Bayesians Anne, Beth, and Greg are flipping a coin that may or may not be biased. Anne has a prior of $\Beta(2,8)$, Beth has a prior of $\Beta(1,1)$, and Greg has a prior of $\Beta(8,2)$. 
 
 - (a) Write a simulation to demonstrate the convergence of their beliefs as they gather data by flipping the coin. 
 - (b) Test your simulation with the following values for the probability of heads: $\theta = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]$
 
 <br>
 
-__11__. There are 3 candy machines in front of you each with a different probability of dispensing chocolate and cherry flavored Tootsie Rolls. Your absolute favorite flavor is cherry. You can draw one Tootsie Roll at a time from a single candy machine. The dispensing probabilities remain constant over time. 
+__11__. There are 3 candy machines in front of you that each dispense either chocolate or cherry flavored Tootsie Rolls. Each has a different probability of dispensing chocolate versus cherry flavors. Your absolute favorite flavor is cherry. You can draw one Tootsie Roll at a time from a single candy machine. The dispensing probabilities remain constant over time. 
 
 - Outline a strategy to obtain as many cherry flavored Tootsie Rolls as possible for a fixed set of draws. 
 - This is a tough problem. Use computational and statistical thinking to come up with a strategy. Use your imagination. Be adventurous. 
