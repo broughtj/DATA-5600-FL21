@@ -95,7 +95,7 @@ __9__. The probability that a patient recovers from a stomach disease is $0.8$. 
 
 <br>
 
-__10__. Three Bayesians Anne, Beth, and Greg are flipping a coin that may or may not be biased. Anne has a prior of $\Beta(2,8)$, Beth has a prior of $\Beta(1,1)$, and Greg has a prior of $\Beta(8,2)$. 
+__10__. Three Bayesians Anne, Beth, and Greg are flipping a coin that may or may not be biased. Anne has a prior of $\beta(2,8)$, Beth has a prior of $\beta(1,1)$, and Greg has a prior of $\beta(8,2)$. 
 
 - (a) Write a simulation to demonstrate the convergence of their beliefs as they gather data by flipping the coin. 
 - (b) Test your simulation with the following values for the probability of heads: $\theta = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]$

@@ -22,6 +22,9 @@ student who does not will flounder. This is why I labor so diligently to teach t
 <br>
 
 1. Homework 1a,1b,1c
+    - 1a due date: Oct 4
+    - 1b due date: 
+    - 1c due date: 
 
 2. Chapter 4 continued
 	- Hypothesis testing
