@@ -67,11 +67,11 @@ __5__. If the probability of picking a winning horse in a race is $\theta = 0.2$
 __6__. A jar contians 30 green jelly beans and 20 purple jelly beans. Suppose 10 jelly beans are selected at random from the jar. 
 
 - (a) Find the probability of obtaining exactly five purple jelly beans if they are selected with replacement.
-- (b) Find the probability of obtaining exactly five purple beans if they are selected withour replacement. 
+- (b) Find the probability of obtaining exactly five purple beans if they are selected without replacement. 
 
 <br>
 
-__7__. An office has 10 employees, three men and four seven women. The manager chooses four at random to attend a short course on quality improvement. 
+__7__. An office has 10 employees, three men and seven women. The manager chooses four at random to attend a short course on quality improvement. 
 
 - (a) What is the probability that an equal number of men and women are chosen?
 - (b) What is the probability that more women are chosen?
