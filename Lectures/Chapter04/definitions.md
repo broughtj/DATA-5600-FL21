@@ -57,18 +57,22 @@ __discrete probability density function__ (discrete PDF).
 
 <br>
 
-<u>__Example 1.__</u> The values of the discrete pdf of a roll of a fair die.
+<u>__Example 1.__</u> 
+
+The values of the discrete pdf of a roll of a fair die can be given by the following table.
 
 | x      | 1   | 2   | 3   | 4   | 5   | 6   |
 |:-------|-----|-----|-----|-----|-----|-----|
-| $f(x)$ | 1/6 | 1/6 | 1/6 | 1/6 | 1/6 | 1/6 |
+| f(x)   | 1/6 | 1/6 | 1/6 | 1/6 | 1/6 | 1/6 |
 
 
 <br>
 <br>
 <br>
 
-<u>__Example 2.__</u> When tossing a coin with unknown probability of heads (success). The pdf is given by the ___Bernoulli distribution function___. 
+<u>__Example 2.__</u> 
+
+When tossing a coin with unknown probability of heads (success). The pdf is given by the ___Bernoulli distribution function___. 
 
 $$
 f(x; \theta) = \theta^{x} (1 - \theta)^{1-x} \quad x = \{0, 1\}
@@ -112,8 +116,10 @@ stats.binom(1, 0.6).pmf(0)
 <br>
 
 
-<u>__Example 3.__</u> When tossing a coin $n$ times and counting the number of heads the
-pdf is given by the ___Binomial distribution function___.
+<u>__Example 3.__</u> 
+
+When tossing a coin $n$ times and counting the number of heads the pdf is given
+by the ___Binomial distribution function___.
 
 $$
 f(x; n, \theta) = \binom{n}{x} \theta^{x} (1 - \theta)^{n-x}
@@ -156,7 +162,9 @@ $$
 <br>
 <br>
 
-<u>__Example 4.__</u> A jar contians 30 green jelly beans and 20 purple jelly beans. Suppose
+<u>__Example 4.__</u> 
+
+A jar contians 30 green jelly beans and 20 purple jelly beans. Suppose
 10 jelly beans are selected at random from the jar. What is the probability of getting 4 or
 fewer green jelly beans?
 
@@ -226,4 +234,6 @@ normal distribution as $n \rightarrow \infty$.
 <br>
 <br>
 
-Examples go here...
+<u>__Example n__</u> 
+
+
