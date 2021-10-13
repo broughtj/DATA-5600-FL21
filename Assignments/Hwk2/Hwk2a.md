@@ -66,7 +66,7 @@ counts = np.loadtxt("service_counts.csv")
 
 <br>
 
-__6.__ You are a data analysis consultant for a coin factory. You have been given the dataset contained in the file `coin_data.csv`. These data represent
+__7.__ You are a data analysis consultant for a coin factory. You have been given the dataset contained in the file `coin_data.csv`. These data represent
 100 binomial experiments each of sample size $n = 100$. (That is, the coin was flipped 100 times and the number of heads were counted and recorded. Then this
 process was repeated 100 times). Devise a test to check if the data were produced from a coin biased towards heads. Construct a bootstrap study to test the 
 results you get via the Central Limit Theorem. 
