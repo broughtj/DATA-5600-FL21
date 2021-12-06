@@ -1,6 +1,6 @@
 # __DATA 5600__
 
-## __Assignement 3__
+## __Assignement 3a__
 
 
 * Instructor: Tyler J. Brough

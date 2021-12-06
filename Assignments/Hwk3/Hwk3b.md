@@ -1,6 +1,6 @@
 # __DATA 5600__
 
-## __Assignement 3__
+## __Assignement 3b__
 
 
 * Instructor: Tyler J. Brough
@@ -16,13 +16,13 @@
 __1.__ The data sets used to calculate Figures 5.1, 5.2, 5.3, and 5.4 in the Koop textbook (_Analysis of Economic Data_) are in FIG51.XLS,
        FIG52.XLS, FIG53.XLS, and FIG54.XLS.
 
-__(a)__ Calculate the OLS estimates of $\hat{\alpha}$ and $\hat{\beta}$ for these four data sets. How close are they to 0 and 1
+* __(a)__ Calculate the OLS estimates of $\hat{\alpha}$ and $\hat{\beta}$ for these four data sets. How close are they to 0 and 1
         (the values used to simulate the data)?
 
-__(b)__ Calculate $95\%$ confidence intervals for $\alpha$ for the four data sets. Examine how the width of the confidence interval relates to $N$
+* __(b)__ Calculate $95\%$ confidence intervals for $\alpha$ for the four data sets. Examine how the width of the confidence interval relates to $N$
         and the variability of the errors.
 
-__(c)__ Calculate $99\%$ and $90\%$ confidence intervals for the data sets. How do these differ from the results in (b)?
+* __(c)__ Calculate $99\%$ and $90\%$ confidence intervals for the data sets. How do these differ from the results in (b)?
 
 
 <br>
@@ -31,9 +31,9 @@ __(c)__ Calculate $99\%$ and $90\%$ confidence intervals for the data sets. How 
 __2.__ The file ADVERT.XLS contains data on annual sales($Y$) and advertising expenditure ($X$) (both measured in millions of dollars) for
        84 companies in the US.
 
-__(a)__ Run a regression of $Y$ on $X$ and obtain $95\%$ confidence intervals for $\alpha$ and $\beta$.
+* __(a)__ Run a regression of $Y$ on $X$ and obtain $95\%$ confidence intervals for $\alpha$ and $\beta$.
 
-__(b)__ Write a careful explanation of what the $95\%$ confidence interval for $\beta$ means in terms of the possible range of values that the
+* __(b)__ Write a careful explanation of what the $95\%$ confidence interval for $\beta$ means in terms of the possible range of values that the
         effect of the explanatory variable on the dependent variable may take. 
 
 
@@ -56,10 +56,10 @@ __4.__ Using the data set FOREST.XLS run a regression of $Y$ (deforestation) on 
 
 __5.__ Also using the FOREST.XLS data set. 
 
-__(a)__ Run a regression of $Y$ (deforestation) on $W$ (percentage change in cropland) and interpret the results. Conduct a hypothesis
+* __(a)__ Run a regression of $Y$ (deforestation) on $W$ (percentage change in cropland) and interpret the results. Conduct a hypothesis
         test to see if the expansion of cropland has an effect on deforestation rates.
 
-__(b)__ Run a regression of $Y$ (deforestation) on $Z$ (percentage change in pasture land) and interpret the results. Conduct a 
+* __(b)__ Run a regression of $Y$ (deforestation) on $Z$ (percentage change in pasture land) and interpret the results. Conduct a 
         hypothesis test that expansion of pastureland has an effect on deforestation rates.
 
 
@@ -68,15 +68,15 @@ __(b)__ Run a regression of $Y$ (deforestation) on $Z$ (percentage change in pas
 
 __6.__ Use the data sets FIG51.XLS, FIG52.XLS, FIG53.XLS, and FIG54.XLS.
 
-__(a)__ Test whether $\beta = 0$ using the confidence interval approach for each of the four data sets.
+* __(a)__ Test whether $\beta = 0$ using the confidence interval approach for each of the four data sets.
 
-__(b)__ Test whether $\beta = 0$ using the $p$-value approach for each of the four data sets. Use a $5\%$ level of significance.
+* __(b)__ Test whether $\beta = 0$ using the $p$-value approach for each of the four data sets. Use a $5\%$ level of significance.
 
-__(c)__ Redo parts (a) and (b) for $\alpha$.
+* __(c)__ Redo parts (a) and (b) for $\alpha$.
 
-__(d)__ Redo parts (a), (b), and (c) using a $1\%$ level of significance. 
+* __(d)__ Redo parts (a), (b), and (c) using a $1\%$ level of significance. 
 
-__(e)__ Comment on these results.
+* __(e)__ Comment on these results.
 
 
 <br>
